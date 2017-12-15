@@ -15,8 +15,8 @@ sys.setdefaultencoding('utf-8')
 def main():
     repo = git.Repo()
     git_url = "https://github.com/geekcomputers/Python.git"
-    repo_dir = "/home/ekkya/Cyclomatic-Complexity/test"
-    directory = "/home/ekkya/Cyclomatic-Complexity/results/"
+    repo_dir = "Documents/Cyclomatic_Complexity/test"
+    directory = "Documents/Cyclomatic_Complexity/results/"
     #repo.clone_from(git_url, repo_dir)
     #print "1"
     repo = git.Repo(repo_dir)
