@@ -1,4 +1,4 @@
-This is a project to developed in python to evaluate Cyclomatic Complexity of Code using REST service system.
+This is a project developed in python to evaluate Cyclomatic Complexity of Code using REST service system.
 
 The REST system focuses on the efficient computation of code complexity for a given repository, utilizing a set of nodes as appropriate to minimize execution time from submission to result return.
 
@@ -14,5 +14,6 @@ Result -
 
 As the number of workers increases, the time taken decreases. It comes to a certain point where increasing the number of workers doesn't increase the efficiency of the system.
 
+Find the Result.png file to visualize the plot.
 
 Ravina Mehta CS7NS1 (Student ID - 1737906)
